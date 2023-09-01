@@ -1,4 +1,4 @@
-# Project Title: Coffee Orders Dashboard - Excel End-to-End Project
+# Coffee Orders Dashboard - Excel End-to-End Project
 
 **Project Description:**
 
